@@ -61,3 +61,20 @@ button:hover {
 	color: whitesmoke;
 	background-color: steelblue;
 }
+
+@media (max-width: 600px) {
+	#container {
+		width: 450px;
+	}
+	#display {
+		font-size: 180%;
+	}
+}
+@media (max-width: 400px) {
+	#container {
+		width: 320px;
+	}
+	#display {
+		font-size: 100%;
+	}
+}
