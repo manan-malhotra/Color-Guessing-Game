@@ -89,11 +89,15 @@ button:hover {
 }
 @media (max-width: 330px) {
   #stripe {
-    font-size: 12px;
+    font-size: 11px;
   }
 
   #container {
-    width: 280px;
+    width: 240px;
+  }
+
+  .heading {
+    width: 100%;
   }
 
   #display {
