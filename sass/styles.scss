@@ -78,3 +78,14 @@ button:hover {
 		font-size: 100%;
 	}
 }
+@media (max-width: 330px) {
+	#stripe {
+		font-size: 12px;
+	}
+	#container {
+		width: 280px;
+	}
+	#display {
+		font-size: 80%;
+	}
+}
